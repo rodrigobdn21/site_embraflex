@@ -25,8 +25,8 @@ header {
 .fill {
 background-image: linear-gradient(
         to right,
-        blue 60%,    
-        red 40%
+        blue 57%,    
+        red 43%
     );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
